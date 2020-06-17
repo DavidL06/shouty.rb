@@ -1,6 +1,6 @@
 Feature: Hear Shout today
 
-  Shouts have a range up to 1000m
+  Shouts have a range up to 1000m from Timothee
 
   Scenario: In range shout is heard
     Given Lucy is at 0, 0
